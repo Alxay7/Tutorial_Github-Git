@@ -1,1 +1,2 @@
-printf("Hello World");
+print("World Champion")
+print("Max Verstappen")
