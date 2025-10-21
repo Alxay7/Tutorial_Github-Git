@@ -9,7 +9,7 @@ git remote add origin [link do repo]
 git push -u origin master
 ```
 # Co znajdziesz w pełnej wersji pdf?
-[![Pobierz](https://img.shields.io/badge/Pobierz-Repozytorium-green)](https://github.com/Alxay7/Tutorial_Github-Git/blob/master/tutorial.pdf)
+[![Pobierz](https://img.shields.io/badge/Pobierz-Tutorial-green)](https://github.com/Alxay7/Tutorial_Github-Git/blob/master/tutorial.pdf)
 
 Pełna wersja *pdf* zawiera podstawowe informacje na temat korzystania oraz możliwości 
 zarówno *githuba* jak i *gita*. Po samouczku dowiesz się, jak utworzyć własne repozytoria te lokalne
